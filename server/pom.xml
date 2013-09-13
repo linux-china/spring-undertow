@@ -43,5 +43,11 @@
             <artifactId>undertow-websockets-jsr</artifactId>
             <version>${undertow.version}</version>
         </dependency>
+        <!--spring framework-->
+        <dependency>
+            <groupId>org.springframework.plugin</groupId>
+            <artifactId>spring-plugin-core</artifactId>
+            <version>0.8.0.RELEASE</version>
+        </dependency>
     </dependencies>
 </project>
