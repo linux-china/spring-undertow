@@ -10,6 +10,7 @@
     <modules>
         <module>client</module>
         <module>server</module>
+        <module>demo-web</module>
     </modules>
     <name>Spring Undertow Web Server</name>
     <description>
@@ -35,9 +36,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:ssh://git@git.mvnsearch.org:7777/mvs/prometheus.git</connection>
-        <developerConnection>scm:git:ssh://git@git.mvnsearch.org:7777/mvs/prometheus.git</developerConnection>
-        <url>http://git.mvnsearch.org/projects/mvs/repos/prometheus/browse</url>
+        <connection>scm:git:git@github.com:linux-china/spring-undertow.git</connection>
+        <developerConnection>scm:git:git@github.com:linux-china/spring-undertow.git</developerConnection>
+        <url>https://github.com/linux-china/spring-undertow</url>
     </scm>
     <dependencies>
         <dependency>
